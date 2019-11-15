@@ -1,9 +1,43 @@
 body,h1,h2,h3,h4,h5,h6,p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+h2{
+	text-decoration:underline;
+}
 .p{
     background-color: rgba(240, 244, 245, 0.938);
-    padding-block: 100px 100px;
+    padding: 100px 100px;
     padding: 15px;
     box-shadow: 5px 5px 10px;
+	font-size:20px;
 }
+
+
+img{
+	height:200px;
+	width:150px;
+}
+ 
+ .heading{
+	 font-size: 30px;
+	 text-align:center;
+ }
+ body{
+	 background-color:#DCDCDC;
+ }
+ 
+ .b{
+	 padding:0px 0px 643px 0px;
+ }
+ 
+ .d img{
+	 width:150px;
+	 height:100px;
+	 margin:10px;
+	 padding:10px 0px 0px 733px;
+	 
+ }
+ .d pre{
+	 padding:10px 50px 0px 770px;
+ }
